@@ -10,6 +10,8 @@
   }
 }(function (breeze) {
   "use strict";
+  
+  var EntityType = breeze.EntityType;
 
   var ctor = function UriBuilderJsonAdapter() {
     this.name = "json";
