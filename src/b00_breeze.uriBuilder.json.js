@@ -13,6 +13,8 @@
   
   var EntityType = breeze.EntityType;
 
+  var EntityType = breeze.EntityType;
+
   var ctor = function UriBuilderJsonAdapter() {
     this.name = "json";
   };
